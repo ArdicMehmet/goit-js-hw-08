@@ -30,7 +30,7 @@ body{
     display: block;
 }
 .gallery .gallery-image:hover{
-    cursor: url('./images/cursor.png') 0 0, auto;
+    cursor: url('../images/cursor.png') 0 0, auto;
 }
 .basicLightbox{
     background-color: #2E2F42CC ;
